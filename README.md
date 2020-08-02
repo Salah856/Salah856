@@ -11,6 +11,5 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about javascript
 - 📫 How to reach me: https://www.linkedin.com/in/salah-elhossiny-a73163a4/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
