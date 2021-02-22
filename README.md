@@ -11,8 +11,10 @@
 - I'm currently trainee at AWS MCIT ML program
 - 💬 Ask me about javascript
 - 📫 How to reach me: https://www.linkedin.com/in/salah-elhossiny/ 
-or salah.othman.elhossiny@gmail.com 
-or https://www.facebook.com/salah.elhossiny.315 
-or leetcode: https://leetcode.com/user0065w/
+|| salah.othman.elhossiny@gmail.com 
+|| https://www.facebook.com/salah.elhossiny.315 
+|| leetcode: https://leetcode.com/user0065w/
+|| ClubHouse handle : @salah856 
+
 
 
