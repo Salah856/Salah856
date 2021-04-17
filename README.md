@@ -4,7 +4,8 @@
 
 
 
-- 🔭 I’m currently working as FullStack developer at Surv* ( https://www.survbetter.com/ )
+- 🔭 I’m currently working as FullStack developer
+- Former fullstack developer at Surv* " https://www.survbetter.com/ "
 - 🌱 I’m currently learning Laravel, Python, Ruby
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with ML, AI
