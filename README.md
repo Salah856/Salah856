@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on opensource projects. 
 - 🤔 I’m looking for help with ML, AI. 
 - I'm currently trainee at AWS MCIT ML program. 
-- 💬 Ask me about javascript and react. 
+- 💬 Ask me about Javascript and React. 
 
 - 📫 How to reach me: https://www.linkedin.com/in/salah-elhossiny/ 
  || salah.othman.elhossiny@gmail.com 
