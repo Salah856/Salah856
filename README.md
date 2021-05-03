@@ -15,7 +15,6 @@
 - I'm currently trainee at AWS MCIT ML program. 
 - 💬 Ask me about Javascript and React. 
 
-
 - 📫 How to reach me: 
    https://www.linkedin.com/in/salah-elhossiny/ 
 
