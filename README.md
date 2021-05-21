@@ -6,6 +6,7 @@
 **Salah856/Salah856** is a ✨  _special_  ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
 - 🔭 I’m currently working as FullStack ML developer.
+- AWS Community Builder.
 
 - Former fullstack developer at Surv* ( https://www.survbetter.com/ )
 - 🌱 I’m currently learning Python, Ruby, ASP.NET Core. 
@@ -24,3 +25,5 @@
    || leetcode: https://leetcode.com/user0065w/
   
    || ClubHouse handle : @salah856 
+   
+   || Dev.to :  https://dev.to/aws-builders/building-rest-api-using-aws-with-serverless-node-js-express-2bk3 
