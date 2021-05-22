@@ -17,11 +17,11 @@
 - 💬 Ask me about Javascript and React.  
      
 - 📫 How to reach me: 
-   https://www.linkedin.com/in/salah-elhossiny/   
+   Linkedin: https://www.linkedin.com/in/salah-elhossiny/   
     
    || Gmail: salah.othman.elhossiny@gmail.com   
    
-   || https://www.facebook.com/salah.elhossiny.315 
+   || FB: https://www.facebook.com/salah.elhossiny.315 
   
    || leetcode: https://leetcode.com/user0065w/
   
