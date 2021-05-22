@@ -11,6 +11,7 @@
 - Former fullstack developer at Surv* ( https://www.survbetter.com/ )
 - 🌱 I’m currently learning Python, Ruby, ASP.NET Core. 
 - 👯 I’m looking to collaborate on opensource projects. 
+
 - 🤔 I’m looking for help with ML, AI. 
 - I'm currently trainee at AWS MCIT ML program. 
 - 💬 Ask me about Javascript and React.  
