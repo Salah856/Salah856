@@ -17,6 +17,7 @@
 - 💬 Ask me about Javascript and React.  
      
 - 📫 How to reach me: 
+
    Linkedin: https://www.linkedin.com/in/salah-elhossiny/   
     
    || Gmail: salah.othman.elhossiny@gmail.com   
