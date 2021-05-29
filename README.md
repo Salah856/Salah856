@@ -15,6 +15,8 @@
 - 🤔 I’m looking for help with ML, AI. 
 - I'm currently trainee at AWS MCIT ML program. 
 - 💬 Ask me about Javascript and React.  
+
+https://mehdihadeli.github.io/awesome-software-architecture/ 
      
 - 📫 How to reach me: 
 
