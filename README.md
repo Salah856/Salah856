@@ -24,9 +24,9 @@ https://mehdihadeli.github.io/awesome-software-architecture/
     
    || Gmail: salah.othman.elhossiny@gmail.com   
    
-   || FaceBook: https://www.facebook.com/salah.elhossiny.315 
+   || Facebook: https://www.facebook.com/salah.elhossiny.315 
   
-   || leetcode: https://leetcode.com/user0065w/
+   || Leetcode: https://leetcode.com/user0065w/
   
    || ClubHouse handle : @salah856 
    
