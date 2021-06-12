@@ -5,7 +5,7 @@
  
 **Salah856/Salah856** is a ✨  _special_  ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
-- 🔭 I’m currently working as FullStack ML developer.    
+- 🔭 I’m currently working as FullStack ML developer.     
 - AWS Community Builder.
  
 - Former fullstack developer at Surv* ( https://www.survbetter.com/ )
