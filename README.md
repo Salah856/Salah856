@@ -28,6 +28,6 @@ https://mehdihadeli.github.io/awesome-software-architecture/
   
    || ClubHouse handle : @salah856 
    
-   || <a href=" https://dev.to/salah856 "> Dev.to </a> 
+   || <a href=" https://dev.to/salah856"> DevCommunity </a> 
  
 
