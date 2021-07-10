@@ -20,7 +20,7 @@ https://mehdihadeli.github.io/awesome-software-architecture/
 
    <a href="https://www.linkedin.com/in/salah-elhossiny/"> Linkedin </a> 
     
-   || Gmail: salah.othman.elhossiny@gmail.com   
+   || <a href="salah.othman.elhossiny@gmail.com"> Gmail </a>  
    
    || Facebook: https://www.facebook.com/salah.elhossiny.315 
   
