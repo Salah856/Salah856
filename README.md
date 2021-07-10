@@ -21,7 +21,10 @@ https://mehdihadeli.github.io/awesome-software-architecture/
    <a href="https://www.linkedin.com/in/salah-elhossiny/"> Linkedin </a>  || <a href="mailto:salah.othman.elhossiny@gmail.com"> Gmail </a>  
    
    <a href="https://www.facebook.com/salah.elhossiny.315"> Facebook </a> || <a href="https://leetcode.com/user0065w/"> Leetcode </a>
-  
-   ClubHouse handle : @salah856  || <a href="https://dev.to/salah856"> DevCommunity </a> 
+     
+   <a href="https://dev.to/salah856"> DevCommunity </a> 
+   
+   ClubHouse handle : @salah856  
+
  
 
