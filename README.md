@@ -22,7 +22,7 @@ https://mehdihadeli.github.io/awesome-software-architecture/
     
    || <a href="mailto:salah.othman.elhossiny@gmail.com"> Gmail </a>  
    
-   || Facebook: https://www.facebook.com/salah.elhossiny.315 
+   || <a href="https://www.facebook.com/salah.elhossiny.315"> Facebook </a>
   
    || Leetcode: https://leetcode.com/user0065w/
   
