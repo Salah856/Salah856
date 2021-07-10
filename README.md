@@ -24,10 +24,10 @@ https://mehdihadeli.github.io/awesome-software-architecture/
    
    || <a href="https://www.facebook.com/salah.elhossiny.315"> Facebook </a>
   
-   || Leetcode: https://leetcode.com/user0065w/
+   || <a href="https://leetcode.com/user0065w/"> Leetcode </a>
   
    || ClubHouse handle : @salah856 
    
-   || Dev.to :  https://dev.to/salah856  
+   || <a href=" https://dev.to/salah856 "> Dev.to </a> 
  
 
