@@ -18,7 +18,7 @@ https://mehdihadeli.github.io/awesome-software-architecture/
      
 - 📫 How to reach me: 
 
-   Linkedin: https://www.linkedin.com/in/salah-elhossiny/   
+   <a href="https://www.linkedin.com/in/salah-elhossiny/"> Linkedin </a> 
     
    || Gmail: salah.othman.elhossiny@gmail.com   
    
