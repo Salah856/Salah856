@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Python, Ruby, ASP.NET Core. 
 - 👯 I’m looking to collaborate on opensource projects. 
 
-- I'm currently trainee at AWS MCIT ML program. 
+- I'm certified AWS ML specialist. 
 - 💬 Ask me about Javascript and React.  
 
 https://mehdihadeli.github.io/awesome-software-architecture/ 
