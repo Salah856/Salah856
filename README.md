@@ -23,6 +23,8 @@ https://mehdihadeli.github.io/awesome-software-architecture/
   - <a href="https://www.facebook.com/salah.elhossiny.315"> Facebook </a> || <a href="https://leetcode.com/user0065w/"> Leetcode </a>
      
   - <a href="https://dev.to/salah856"> DevCommunity </a> 
+  
+  -  <a href="https://medium.com/@salah.othman.elhossiny"> Medium </a>
    
   - ClubHouse handle : @salah856  
 
