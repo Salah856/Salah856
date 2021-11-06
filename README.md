@@ -29,7 +29,5 @@ https://mehdihadeli.github.io/awesome-software-architecture/
    
   - ClubHouse handle : @salah856  
 
- 
-
 
 
