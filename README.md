@@ -11,7 +11,6 @@
 - Former fullstack developer at Surv* ( https://www.survbetter.com/ )
 - I’m currently learning Python, Ruby, ASP.NET Core. 
 - I’m looking to collaborate on opensource projects. 
-
 - I'm certified AWS ML specialist. 
 - Ask me about Javascript and React.  
 
