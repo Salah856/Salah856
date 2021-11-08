@@ -28,3 +28,5 @@ https://mehdihadeli.github.io/awesome-software-architecture/
   -  <a href="https://medium.com/@salah.othman.elhossiny"> Medium </a>
    
   - ClubHouse handle : @salah856  
+
+
