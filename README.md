@@ -30,6 +30,4 @@ https://mehdihadeli.github.io/awesome-software-architecture/
   - ClubHouse handle : @salah856  
 
 
-![image](https://user-images.githubusercontent.com/23625821/141254932-0a546381-b45b-4f87-9230-b2872809a678.png)
-
 
