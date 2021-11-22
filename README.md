@@ -16,7 +16,6 @@
 - I'm certified AWS ML specialist. 
 - Ask me about Javascript and React.  
 
-
 <!-- https://mehdihadeli.github.io/awesome-software-architecture/  -->
 
      
