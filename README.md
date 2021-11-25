@@ -6,7 +6,7 @@
   
 - Former fullstack developer at <a href="https://www.survbetter.com/"> Surv* </a> .
 - Former FullStack ML developer at <a href="https://www.crunchbase.com/organization/bullzaye-ai"> Bullzaye.ai </a> . 
-- Software Engineer at KemetAI.     
+- Currently, Software Engineer at KemetAI.     
 
 - <a href="https://aws.amazon.com/developer/community/heroes/salah-elhossiny/"> AWS ML Hero </a>. 
 - AWS Community Builder.
