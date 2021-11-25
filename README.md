@@ -4,13 +4,13 @@
 
 **Salah856/Salah856** is a ✨  _special_  ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
+- Former fullstack developer at Surv* ( https://www.survbetter.com/ )
 - Former FullStack ML developer at Bullzaye.ai. 
 - Software Engineer at KemetAI.     
 
 - <a href="https://aws.amazon.com/developer/community/heroes/salah-elhossiny/"> AWS ML Hero </a>. 
 - AWS Community Builder.
  
-- Former fullstack developer at Surv* ( https://www.survbetter.com/ )
 - I’m currently learning Python, Ruby, ASP.NET Core. 
 - I’m looking to collaborate on opensource projects. 
 
