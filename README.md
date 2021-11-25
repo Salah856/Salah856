@@ -4,8 +4,8 @@
 
 **Salah856/Salah856** is a ✨  _special_  ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
-- Former FullStack ML developer. 
-- Software engineer at KemetAI.     
+- Former FullStack ML developer at Bullzaye.ai. 
+- Software Engineer at KemetAI.     
 
 - <a href="https://aws.amazon.com/developer/community/heroes/salah-elhossiny/"> AWS ML Hero </a>. 
 - AWS Community Builder.
