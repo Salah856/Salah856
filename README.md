@@ -12,7 +12,7 @@
 - I'm certified AWS ML specialist. 
 - AWS Community Builder.
      
- 
+    
 - I’m currently learning Python, Ruby, ASP.NET Core. 
 - I’m looking to collaborate on opensource projects. 
 
