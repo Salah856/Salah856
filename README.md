@@ -15,7 +15,7 @@
     
 - I’m currently learning Python, Ruby, ASP.NET Core. 
 - I’m looking to collaborate on opensource projects. 
-
+   
 - Ask me about Javascript and React.  
 
 <!-- https://mehdihadeli.github.io/awesome-software-architecture/  -->
