@@ -4,7 +4,8 @@
                                                                            
 **Salah856/Salah856** is a ✨  _special_  ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- Currently, Software Engineer at <a href="https://www.masterlinux.net/"> Kemet AI </a> .   
+- Currently, Software Engineer at <a href="https://www.linkedin.com/company/zeidex/"> Zeidex </a> . 
+- Former Software Engineer at <a href="https://www.masterlinux.net/"> Kemet AI </a> . 
 - Former fullstack developer at <a href="https://www.survbetter.com/"> Surv* </a> .
 - Former FullStack ML developer at <a href="https://www.crunchbase.com/organization/bullzaye-ai"> Bullzaye.ai </a> . 
 
