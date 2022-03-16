@@ -13,7 +13,7 @@
 - Certified AWS ML specialist. 
 - AWS Community Builder.                                             
                                                               
-                       
+                                         
 - Currently learning Python, Ruby, ASP.NET Core. 
 - Looking to collaborate on opensource projects. 
       
