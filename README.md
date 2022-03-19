@@ -10,7 +10,7 @@
 - Former FullStack ML developer at <a href="https://www.crunchbase.com/organization/bullzaye-ai"> Bullzaye.ai </a> . 
 
 - <a href="https://aws.amazon.com/developer/community/heroes/salah-elhossiny/"> AWS ML Hero </a>. 
-- Certified AWS ML specialist. 
+- Certified AWS ML specialist.                                
 - AWS Community Builder.                                                                  
                                                                                                                                   
                                                                               
