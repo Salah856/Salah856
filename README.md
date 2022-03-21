@@ -36,5 +36,3 @@
    
   - ClubHouse handle : @salah856       
 
-
-
