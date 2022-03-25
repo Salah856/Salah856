@@ -14,7 +14,7 @@
 - AWS Community Builder.                                                                  
                                                                                                      
 - Currently learning Python, Ruby, ASP.NET Core. 
-- Looking to collaborate on opensource projects. 
+- Looking to collaborate on opensource projects.   
       
 - Ask me about Javascript and React.    
 
