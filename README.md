@@ -11,7 +11,7 @@
 
 - <a href="https://aws.amazon.com/developer/community/heroes/salah-elhossiny/"> AWS ML Hero </a>. 
 - Certified AWS ML specialist.                                
-- AWS Community Builder.                                                                                
+- AWS Community Builder.                                                                                                                       
                                                                                                                               
 - Currently learning Python, Ruby, ASP.NET Core. 
 - Looking to collaborate on opensource projects.   
