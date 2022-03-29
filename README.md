@@ -21,7 +21,7 @@
 <!-- https://mehdihadeli.github.io/awesome-software-architecture/  -->
 
       
-- 📫 How to reach me: 
+- 📫 How to reach me:              
 
   - <a href="https://www.linkedin.com/in/salah-elhossiny/"> Linkedin </a>  || <a href="mailto:salah.othman.elhossiny@gmail.com"> Gmail </a>  
    
