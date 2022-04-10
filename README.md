@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salah856" alt="salah856" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/salahelhossiny0" target="blank"><img src="https://img.shields.io/twitter/follow/@salahelhossiny0?logo=twitter&style=for-the-badge" alt="@salahelhossiny0" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/salahelhossiny0" target="blank"><img src="https://img.shields.io/twitter/follow/@salahelhossiny0?logo=twitter&style=for-the-badge" alt="@salahelhossiny0" /></a> </p> -->
 
 - 🔭 I’m currently working on Zeidex company [MacQueen](https://sand.macqueen.co/)
 
