@@ -30,7 +30,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Salah856](https://hashnode.com/@Salah856)
 
-- 💬 Ask me about **react, django, nodejs, ruby on rails, golang**
+- 💬 Ask me about **react, django, nodejs, ruby on rails, golang** 
 
 - 📫 How to reach me **salah.othman.elhossiny@gmail.com**
 
