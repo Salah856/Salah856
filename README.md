@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salah856" alt="salah856" /></a> </p>
  
 
-- 🔭 I’m currently working on at <a href="https://thefoodlab.com/"> The Food Lab </a> company. 
+- 🔭 I’m currently working at <a href="https://thefoodlab.com/"> The Food Lab </a> . 
 
 - Former Software Engineer at <a href="https://www.linkedin.com/company/zeidex/"> Zeidex </a> . 
 
