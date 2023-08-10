@@ -1,5 +1,8 @@
  
-[CV_Salah_Elhossiny.pdf](https://github.com/Salah856/Salah856/files/8974249/CV_Salah_Elhossiny.pdf)
+[Salah_Elhossiny_Resume.pdf](https://github.com/Salah856/Salah856/files/12314559/Salah_Elhossiny_Resume.pdf)
+
+
+CV Live: https://bold.pro/my/salah-elhossiny-230810182615
      
 <h1 align="center">Hi 👋, I'm Salah Elhossiny</h1>     
                            
