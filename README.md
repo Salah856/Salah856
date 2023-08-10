@@ -70,7 +70,8 @@ CV Live: https://bold.pro/my/salah-elhossiny-230810182615
 
       
 - 📫 How to reach me:              
-
+  - https://linktr.ee/salah.elhossiny
+    
   - <a href="https://www.linkedin.com/in/salah-elhossiny/"> Linkedin </a>  || <a href="mailto:salah.othman.elhossiny@gmail.com"> Gmail </a>  
    
   - <a href="https://www.facebook.com/salah.elhossiny.315"> Facebook </a> || <a href="https://leetcode.com/user0065w/"> Leetcode </a>
@@ -80,6 +81,5 @@ CV Live: https://bold.pro/my/salah-elhossiny-230810182615
   - <a href="https://dev.to/salah856"> DevCommunity </a> 
   
   -  <a href="https://medium.com/@salah.othman.elhossiny"> Medium </a>
-   
   - ClubHouse handle : @salah856       
  
