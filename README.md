@@ -84,4 +84,5 @@ CV Live: https://flowcv.com/resume/38woe35g9s
   
   -  <a href="https://medium.com/@salah.othman.elhossiny"> Medium </a>
   - ClubHouse handle : @salah856       
+
  
