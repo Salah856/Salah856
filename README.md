@@ -2,7 +2,7 @@
 [Salah_Elhossiny_Resume.pdf](https://github.com/Salah856/Salah856/files/12314559/Salah_Elhossiny_Resume.pdf)
 
 
-CV Live: https://flowcv.com/resume/38woe35g9s 
+<a href="https://flowcv.com/resume/38woe35g9s "> CV Live </a>.
 
 <!-- https://bold.pro/my/salah-elhossiny-230810182615 -->
      
